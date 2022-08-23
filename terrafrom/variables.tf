@@ -1,5 +1,5 @@
 variable "region" {
-  default     = "us-east-1"
+  default     = "eu-west-3c"
 }
 
 variable "public_key" {
